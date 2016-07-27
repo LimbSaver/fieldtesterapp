@@ -1,0 +1,36 @@
+---
+layout: null
+section-type: form
+title: Sign-up Form
+---
+<img src="img/kodiak_air_rifle.jpg" alt="">
+<p class="lead">Do you love to hunt? Do you love LimbSaver?</p>
+<p>We're looking for hunting and firearm enthusiasts to use our newest gear live in the field. Sign up using the application below, and we'll send you a Kodiak-Air Rifle Sling at no cost to you! The only thing we ask in return is to give us feedback directly, and honestly review the product on a major retail website. (Amazon, Walmart, etc.)</p>
+<form action="https://formspree.io/todd@mm.st"
+      method="POST">
+  <div class="form-group">
+    <label>Name: </label>
+    <input type="text" name="name" class="form-control">
+    <label>Email: </label>
+    <input type="email" name="_replyto" class="form-control">
+  </div>
+  <div class="form-group">
+    <label>Street Address 1: </label>
+    <input type="text" name="Address 1" class="form-control">
+    <label>Street Address 2: </label>
+    <input type="text" name="Address 2" class="form-control">
+    <label>City: </label>
+    <input type="text" name="City" class="form-control">
+    <label>State: </label>
+    <input type="text" name="State" class="form-control"> 
+    <label>Zip Code: </label>
+    <input type="text" name="Zip" class="form-control">  
+  </div>
+  <div class="form-group">
+      <textarea class="form-control" rows="3" placeholder="How did you hear about LimbSaver?" name="How did you hear about LimbSaver?"></textarea>
+  </div>
+   <input type="hidden" name="_subject" value="Product Tester Submission" />
+    <input type="hidden" name="_format" value="plain" />
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="submit" class="btn btn-default" value="Send">
+</form>
