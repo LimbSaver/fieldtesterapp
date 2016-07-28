@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
 
-gem install "jekyll", "jekyll-paginate", "jemoji", "html-proofer"
+gem 'jekyll' 
+gem 'jekyll-paginate'
+gem 'jemoji'
+gem 'html-proofer'
 
