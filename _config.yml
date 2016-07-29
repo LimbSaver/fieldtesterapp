@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "en"
-author: "LimbSaver"
+author: "LimbSaver - Sims Vibration Laboratory"
 title: "LimbSaver Field Testers"
 description: "Fill out the application to get LimbSaver gear to review and test and no cost to you!"
 keywords: "archery,hunting,tree stand,deer,elk"
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -145,7 +145,7 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/pages/Limbsaver/110837838307"
 
 ############
 # 404 page #
